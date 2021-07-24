@@ -1,0 +1,7 @@
+images: "../images"
+inputDir: "../slides"
+output: "../public"
+pdf: false
+themeSet: "../themes"
+server: true
+html: true

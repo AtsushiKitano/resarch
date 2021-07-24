@@ -1,0 +1,15 @@
+{
+  "name": "work_plan",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "kitano atsushi",
+  "license": "UNLICENSED",
+  "private": true,
+  "scripts": {
+    "dev": "marp --config-file=./utils/dev.yaml",
+    "build": "marp --config-file=./utils/build.yaml"
+  },
+  "dependencies": {
+    "@marp-team/marp-cli": "^0.7.0"
+  }
+}
